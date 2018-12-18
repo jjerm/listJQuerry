@@ -1,0 +1,51 @@
+.centr
+{
+    padding-left: 6%;
+    border-style: solid;
+    border-radius: 25px 25px 25px 25px;
+    background-color: rgba(255, 228, 181, 0.3);
+    border-width: 1px;
+    border-color: rgba(128, 128, 128, 0.5);
+    margin-top: 50px;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+body
+{
+    background-image: url(https://st.depositphotos.com/2010295/4363/v/950/depositphotos_43630163-stock-illustration-seamless-background-shopping-bag-package.jpg);
+}
+
+li
+{
+    margin-top: 15px;
+}
+
+.head
+{
+    margin-top: 20px;
+}
+
+h1
+{
+    font-family: 'Lobster', cursive;
+    font-size: 100px;
+}
+
+.add
+{
+    margin-top: 50px;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+p
+{
+    text-align: center;
+    padding-right: 50px;
+}
+
+span
+{
+    margin-right: 10px;
+}
